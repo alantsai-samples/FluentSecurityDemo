@@ -1,5 +1,5 @@
 #介紹
-這個Project主要用來介紹如何使用Fluent Security這一個套件。詳細的訊息可以參考以下文章[連接]
+這個Project主要用來介紹如何使用Fluent Security這一個套件。詳細的訊息可以參考以下文章[連接](http://www.dotblogs.com.tw/alantsai/archive/2013/06/04/105245.aspx)
 
 #架構和動到的頁面
 使用Visual Studio 2012用Internet Application Template開啟
